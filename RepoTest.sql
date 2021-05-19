@@ -7,4 +7,4 @@ select count(*) from srihas.tab
 
 -- COMMAND ----------
 
-
+select count(*) from diamond
